@@ -1,0 +1,3 @@
+CountFunnyCards|pass|
+CountBirthdayCards|pass|
+CheckFunnyCardList|pass|0 expected cards not found.
